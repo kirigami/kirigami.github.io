@@ -2,6 +2,8 @@
   font-family: "Exo 2", sans-serif;
   color: #ED601A;
   font-size: 3em;
+  
+  display: block;
 }
 
 .subtitle {
@@ -10,4 +12,6 @@
   font-weight: 100;
   color: #C9BFB9;
   font-size: 1.8em;
+  
+  display: block;
 }
